@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/victoryloser/victoryloser/main/assets/profile-banner.svg" alt="victoryloser — applied AI, agents, and retrieval" width="100%" />
-
 **Building practical AI systems for documents, knowledge, and business data.**
 
 [Selected projects](#selected-projects) · [Engineering focus](#engineering-focus) · [Repositories](https://github.com/victoryloser?tab=repositories) · [简体中文](https://github.com/victoryloser/victoryloser/blob/main/README.zh-CN.md)
