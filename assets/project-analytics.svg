@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Analytics project</title><desc id="desc">Ecommerce Analysis Agent</desc>
+<rect x="1" y="1" width="126" height="126" rx="24" fill="#102236" stroke="#29415b" stroke-width="2"/>
+<circle cx="113" cy="12" r="51" fill="#75E1C5" opacity=".06"/>
+<g fill="none" stroke="#75E1C5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M30 84h68M38 74V53m19 21V37m19 37V48m19 26V28"/><path d="m34 39 23-11 18 7 20-19" opacity=".45"/></g>
+</svg>

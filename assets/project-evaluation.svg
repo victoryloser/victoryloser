@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Evaluation project</title><desc id="desc">Invoice Trace Evaluator</desc>
+<rect x="1" y="1" width="126" height="126" rx="24" fill="#102236" stroke="#29415b" stroke-width="2"/>
+<circle cx="113" cy="12" r="51" fill="#F3CC86" opacity=".06"/>
+<g fill="none" stroke="#F3CC86" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M29 35h31v28h35M60 63v30"/><circle cx="29" cy="35" r="7" fill="#14283c"/><circle cx="60" cy="63" r="7" fill="#14283c"/><circle cx="95" cy="63" r="7" fill="#14283c"/><circle cx="60" cy="93" r="7" fill="#14283c"/></g>
+</svg>

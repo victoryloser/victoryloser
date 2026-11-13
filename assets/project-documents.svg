@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+<title id="title">Documents project</title><desc id="desc">Medical Agent Platform</desc>
+<rect x="1" y="1" width="126" height="126" rx="24" fill="#102236" stroke="#29415b" stroke-width="2"/>
+<circle cx="113" cy="12" r="51" fill="#C7AFF5" opacity=".06"/>
+<g fill="none" stroke="#C7AFF5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="25" y="26" width="46" height="61" rx="6"/><path d="M37 42h23M37 54h17M37 66h13"/><path d="M82 42h10a13 13 0 0 1 13 13v26l-12-8H82a13 13 0 0 1-13-13v-5a13 13 0 0 1 13-13Z" fill="#14283c"/><path d="M80 55h14M80 64h10"/></g>
+</svg>
